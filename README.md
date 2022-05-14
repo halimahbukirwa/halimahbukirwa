@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a record keeping project.
-- 🌱 I’m currently learning Flutter and Firebase
+- 🔭 I’m currently learning , learning and leaarning
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate on a project that uses Data Science Models
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Python 
